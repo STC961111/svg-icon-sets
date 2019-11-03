@@ -1,0 +1,29 @@
+html {
+  font-family: Overpass, sans-serif;
+  background-image: linear-gradient(#ff9500, #ff5e3a);
+  color: white;
+}
+
+.box-line {
+  border-bottom: 1px solid #ff5e3a;
+}
+
+.btn {
+  color: white;
+  border-color: white;
+}
+
+.btn:hover {
+  color: white;
+  border-color: #fff;
+  background-color: #ff9500;
+}
+
+@media only screen and (min-width: 60em) {
+
+  .bos-line {
+    border-right: 1px solid rgba(255, 255, 255, .5);
+    border-bottom: 0;
+  }
+
+}
