@@ -21,7 +21,7 @@ html {
 
 @media only screen and (min-width: 60em) {
 
-  .bos-line {
+  .box-line {
     border-right: 1px solid rgba(255, 255, 255, .5);
     border-bottom: 0;
   }
